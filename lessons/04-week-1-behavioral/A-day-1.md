@@ -24,5 +24,6 @@ Recruiters and hiring managers often ask about the projects you have worked on. 
 
 
 ## Resources
+- https://www.youtube.com/watch?v=ld0cvWnrVsU
 - https://www.youtube.com/watch?v=ztkEw7yhe30
 - https://gist.github.com/Malllll12/f7be0d9d053beff3b42e0009aa4b6573
