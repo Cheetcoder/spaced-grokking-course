@@ -8,3 +8,4 @@ description: "A collection of Notes and cheatsheets."
 - https://quickref.me/python
 - https://cheatography.com/
 - https://masscode.io/ 
+- Memory
