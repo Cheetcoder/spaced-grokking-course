@@ -1,0 +1,13 @@
+order,sectionTitle,lessonTitle,slug,sectionIcon,filePath,description
+01A,The First Section,Introduction,the-first-section/intro,info-circle,/lessons/the-first-section/intro,The introduction to this course.
+01B,The First Section,All Patterns,the-first-section/all-patterns,info-circle,/lessons/the-first-section/all-patterns,""
+01C,The First Section,Top Patterns,the-first-section/top-patterns,info-circle,/lessons/the-first-section/top-patterns,""
+01D,The First Section,Opionated Approach,the-first-section/Opionated-approach,info-circle,/lessons/the-first-section/Opionated-approach,""
+02A,Cheat Sheets,Cheat Sheets,cheat-sheets/Cheat-sheets,info-circle,/lessons/cheat-sheets/Cheat-sheets,A collection of Notes and cheatsheets.
+03A,Week 1,Day 1,week-1/day-1,dumpster-fire,/lessons/week-1/day-1,""
+03B,Week 1,Day 2,week-1/day-2,dumpster-fire,/lessons/week-1/day-2,""
+03C,Week 1,Day 3,week-1/day-3,dumpster-fire,/lessons/week-1/day-3,""
+03D,Week 1,Day 4,week-1/day-4,dumpster-fire,/lessons/week-1/day-4,""
+03E,Week 1,Day 5,week-1/day-5,dumpster-fire,/lessons/week-1/day-5,""
+03F,Week 1,Day 6,week-1/day-6,dumpster-fire,/lessons/week-1/day-6,""
+03G,Week 1,Day 7,week-1/day-7,dumpster-fire,/lessons/week-1/day-7,""
