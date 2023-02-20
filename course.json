@@ -1,17 +1,17 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Cheet Coder",
+    "company": "MANGA"
   },
-  "title": "Next.js Course Starter Kit",
-  "subtitle": "for Frontend Masters",
-  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
+  "title": "Grokking the Coding Interview: Patterns for Coding Questions",
+  "subtitle": "for Cheetcodes",
+  "frontendMastersLink": "https://github.com/Cheetcoder",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "anonymous",
+    "github": "anonymous",
+    "twitter": "anonymous"
   },
-  "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
+  "description": "Grokkin the Coding Interviews",
   "keywords": ["your", "Google", "keywords", "here"],
   "productionBaseUrl": "/next-course-starter",
   "csvPath": "./out/lessons.csv"
