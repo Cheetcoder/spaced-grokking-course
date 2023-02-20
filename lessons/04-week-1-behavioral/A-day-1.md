@@ -22,6 +22,9 @@ Recruiters and hiring managers often ask about the projects you have worked on. 
 8.  As a team, discuss and give feedback on the project plans, focusing on the effectiveness of the team's communication, decision-making, problem-solving, and leadership skills.
 9.  Close the exercise with a discussion on what the team has learned and how they can apply these skills to their work.
 
+## Show your work
+- https://github.com/Cheetcoder/cheetcodes-private-discussions/discussions/2
+
 
 ## Resources
 - https://www.youtube.com/watch?v=ld0cvWnrVsU
