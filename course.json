@@ -13,6 +13,6 @@
   },
   "description": "Grokkin the Coding Interviews",
   "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter",
+  "productionBaseUrl": "/spaced-grokking-course",
   "csvPath": "./out/lessons.csv"
 }
