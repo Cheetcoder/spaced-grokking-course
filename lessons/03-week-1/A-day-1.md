@@ -1,7 +1,7 @@
 # Day 1: Tree DFS, BFS
 
-Study Patterns Tree Depth First Search and Tree Breadth First Search from https://www.designgurus.io/course-play/grokking-the-coding-interview
-
+- Watch https://www.udemy.com/user/scott-barrett-16/ Section 7: Trees and Section 15: Tree Traversal 
+- Study Patterns Tree Depth First Search and Tree Breadth First Search from https://www.designgurus.io/course-play/grokking-the-coding-interview
 
 
 ## Binary Tree Node
