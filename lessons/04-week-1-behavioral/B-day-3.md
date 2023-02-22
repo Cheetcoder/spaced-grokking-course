@@ -1,5 +1,7 @@
 # Design a Stock Exchange System
 
+## Instructions
+
 Design a stock exchange system that allows traders to buy and sell stocks in a secure and efficient manner.
 The system should support real-time trading and provide up-to-date information on market trends, stock prices, and other relevant data. 
 The system should also be scalable to handle large volumes of transactions and support multiple user accounts. 
@@ -8,4 +10,6 @@ Additionally, consider incorporating features such as trading algorithms, histor
 Finally, think about how the system will integrate with other financial systems and services to provide a seamless trading experience for users.
 
 
+
+## Resources
 - https://excalidraw.com/
