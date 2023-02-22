@@ -1,4 +1,5 @@
-# Design a Stock Exchange System
+# System Design Interview Practice
+## Design a Stock Exchange System (90 Minute Exercise)
 
 ## Instructions
 
@@ -10,6 +11,6 @@ Additionally, consider incorporating features such as trading algorithms, histor
 Finally, think about how the system will integrate with other financial systems and services to provide a seamless trading experience for users.
 
 
-
 ## Resources
 - https://excalidraw.com/
+- https://www.youtube.com/watch?v=gQfaWHOrITI
